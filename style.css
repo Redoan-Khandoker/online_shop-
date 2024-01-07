@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(184, 95, 12, 0.896);
+    height: 100px;
+
+   
+}
+.log{
+    height: 60px;
+    margin-left: 10%;
+    margin-top: 5px;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+   
+}
+.item{
+    padding: 15px;
+    font-size: 20px;
+}
+.bener{
+    width: 100%;
+    height: 100vh;
+    background-image: url("cover\ pic.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-top: -15px;
+}
+.baner-info{
+    margin-left: 20%;
+    
+    text-align: center;
+    height: 400px;
+    width: 550px;
+   
+    font-size: 25px;
+
+    
+    
+}
+.button{
+   
+}
+
+.bit{
+    height: 50px;
+    width:125px;
+    font-size: 15px;
+    background-color: rgb(223, 0, 0);
+    color: aliceblue;
+    
+
+}
+.bit-n{
+    height: 50px;
+    width:125px;
+    font-size: 15px;
+    color: darkred;
+}
+.service-container{
+    padding: 20px;
+    width: 100%;
+    height: 100vh;
+    font-size: 25px;
+    background-image: url("fotter\ pic.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: -15px;
+}
+.left-side-container{
+    margin-left: 5%;
+    
+    
+    height: 400px;
+    width: 550px;
+    text-align: center;
+    font-size: 25px;
+}
+.hire-me{
+    height: 50px;
+    width:125px;
+    font-size: 20px;
+    background-color: rgb(223, 0, 0);
+    color: aliceblue;
+}
+
+
+
+img{
+    height: 120px;
+    width: 120px;
+    
+    border-radius: 50%;
+    border-color: rgb(245, 0, 102);
+    border-style: dotted;
+}
+.redo-container{
+    display: flex;
+
+}
+.more-Detals{
+    display: flex;
+    height: 75px;
+    margin-top: 50px;
+    width:80px;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(139, 139, 139);
+    color: aliceblue;
+    
+}
+
+
+
